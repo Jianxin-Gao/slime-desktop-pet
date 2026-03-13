@@ -1,5 +1,7 @@
 # 👾 Slime Desktop Pet (史莱姆桌宠)
 
+> 本项目代码完全由 **Gemini 3.1 Pro** 提供逻辑拆解与 Prompt 指导，并交由 **Trae (Builder / Solo 模式)** 全自动编写、环境初始化及打包生成！
+
 这是一个基于 Node.js + Electron 开发的桌面宠物应用。
 它可以脱离浏览器，直接悬浮在你的电脑桌面上，支持拖拽移动、点击互动，陪你一起摸鱼！
 
@@ -15,7 +17,7 @@
 
 ### 🍎 对于 macOS 用户
 
-1. 前往本项目的[Releases 页面](这里替换成你的GitHub_Releases链接) 下载最新的 `.dmg` 安装包。
+1. 前往本项目的[Releases 页面](https://github.com/Jianxin-Gao/slime-desktop-pet/releases) 下载最新的 `.dmg` 安装包。
 2. 双击打开 `.dmg` 文件，将 `SlimePet.app` 拖入你的 `Applications`（应用程序）文件夹。
 3. **首次打开注意事项**：因为是个人开发者打包，Mac 可能会提示“无法验证开发者”。
    - **解决办法**：在 `应用程序` 文件夹中找到该 App，**按住键盘上的 `Control` 键不放，点击鼠标左键**，选择“打开”，在弹出的窗口中再次点击“打开”即可。
@@ -25,7 +27,7 @@
 我们为 Windows 用户提供两种运行方式，任选其一即可：
 
 #### 方法一：使用 `.exe` 直接安装（推荐）
-1. 前往本项目的[Releases 页面](这里替换成你的GitHub_Releases链接) 下载最新的 `.exe` 安装包（或便携免安装版）。
+1. 前往本项目的[Releases 页面](https://github.com/Jianxin-Gao/slime-desktop-pet/releases) 下载最新的 `.exe` 安装包（或便携免安装版）。
 2. 下载后直接双击运行即可。
 
 #### 方法二：从源码本地运行（绿色极客版）
